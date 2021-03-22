@@ -13,7 +13,6 @@ cp -r custom_config/* ./pet-shop-box/
 
 cd pet-shop-box/
 npm install
-npm install truffle
 npm install @truffle/hdwallet-provider
 
 truffle compile
